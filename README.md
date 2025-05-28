@@ -53,9 +53,10 @@ cd solar-system-model-openglv
 mkdir build && cd build
 cmake ..
 make
+./SolarSystem
 ```
 ## 🎮 Controls
-./SolarSystem
+
 | Key/Mouse | Action           |
 |-----------|------------------|
 | W / A / S / D | Move camera  |
