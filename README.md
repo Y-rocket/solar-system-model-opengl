@@ -26,7 +26,7 @@ A 3D simulation of the solar system using OpenGL, GLFW, and GLM. This project de
 
 ## 📸 Preview
 
-*(Include screenshots or GIFs here)*
+https://github.com/user-attachments/assets/435ac1e9-c4b1-474b-9dac-646b627b69d6
 
 ---
 
